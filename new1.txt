@@ -106,7 +106,11 @@ void __fastcall TForm1::N4Click(TObject *Sender)
 //---------------------------------------------------------------------------
 void __fastcall TForm1::Edit1Change(TObject *Sender)
 {
+
 /*+ checkout
 git commit
 git master*/
 }
+1234567890
+}
+
